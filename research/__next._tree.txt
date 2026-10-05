@@ -1,0 +1,6 @@
+:HL["/_next/static/chunks/3ezilojsynowr.css","style"]
+:HL["/_next/static/media/5c285b27cdda1fe8-s.p.2_mbdogr7ni8i.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/organs/poly/color-intestine.png","image"]
+:HL["/organs/poly/color-pancreas.png","image"]
+:HL["/organs/poly/color-liver.png","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"research","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"s8hp27spfMcsh0BG6FJxT"}
