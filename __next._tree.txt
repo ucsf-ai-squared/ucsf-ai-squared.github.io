@@ -1,7 +1,7 @@
-:HL["/_next/static/chunks/3ezilojsynowr.css","style"]
+:HL["/_next/static/chunks/2b0lax45k9ifm.css","style"]
 :HL["/_next/static/media/5c285b27cdda1fe8-s.p.2_mbdogr7ni8i.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/organs/poly/color-liver.png","image"]
-:HL["/organs/poly/color-stomach.png","image"]
-:HL["/organs/poly/color-intestine.png","image"]
-:HL["/organs/poly/color-pancreas.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4224,"slots":null}}},"staleTime":300,"buildId":"s8hp27spfMcsh0BG6FJxT"}
+:HL["/organs/svg/liver.svg","image"]
+:HL["/organs/svg/stomach.svg","image"]
+:HL["/organs/svg/intestine.svg","image"]
+:HL["/organs/svg/pancreas.svg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4224,"slots":null}}},"staleTime":300,"buildId":"gDE4ly_-MUFegAxr2l4kD"}
